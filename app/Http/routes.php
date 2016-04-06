@@ -32,3 +32,9 @@ Route::controllers([
 Route::auth();
 
 Route::get('/home', 'HomeController@index');
+
+
+
+Route::get('aobut', function() {
+   return 'About page';
+});

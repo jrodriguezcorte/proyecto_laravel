@@ -55,7 +55,6 @@
 {!! Html::script('assets/js/jquery.min.js') !!}
 {!! Html::script('assets/js/bootstrap.min.js') !!}
 {!! Html::script('assets/js/select2.min.js') !!}
-{!! Html::script('assets/js/select2.min.js') !!}
 
 <script>
     $('div.alert').not('.alert-important').delay(3000).slideUp(300);
