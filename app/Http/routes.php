@@ -38,3 +38,11 @@ Route::get('/home', 'HomeController@index');
 Route::get('aobut', function() {
    return 'About page';
 });
+
+Route::get('reports', function() {
+    return 'Reports page';
+});
+
+Route::get('reports2', function() {
+    return 'Reports page';
+});
