@@ -35,6 +35,6 @@ Route::get('/home', 'HomeController@index');
 
 
 
-Route::get('aobut', function() {
+Route::get('about', function() {
    return 'About page';
 });
