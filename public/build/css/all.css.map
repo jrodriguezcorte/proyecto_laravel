@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css","prueba.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;ACJA;AACA;AACA;AACA;AACA;AACA;AACA","file":"all.css","sourcesContent":["body {\n  background-color: antiquewhite; }\n\n/*# sourceMappingURL=app.css.map */\n","h1 {\n    background-color: #ffffff;\n}\n\np {\n    background-color: rgb(255,0,255);\n}"],"sourceRoot":"/source/"}
